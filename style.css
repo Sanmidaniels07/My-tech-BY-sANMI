@@ -1,0 +1,34 @@
+.alpha{float:left;
+       width: 30px;
+       }
+/* .container{width: 92%;
+           margin: auto;
+           overflow: hidden;} */
+nav{float: right;
+    margin-bottom: 500px;}
+
+    .beta{background-position-x: center;
+          width: 2000px;
+       }
+.sax{position: absolute;
+     left: 50px;
+     color: whitesmoke;
+     width: 28%;
+     }
+.bax{position:absolute;
+     left: 50px;
+     colour: whitesmoke;
+     margin-top: 50px;}
+.lax{position: relative;
+     background-color: white;
+     colour: whitesmoke;
+     margin-bottom: 0px;
+     padding-left: 500px;}
+.dax{position: absolute;}
+nav {display: flex;}
+/* .bg{background-image: url{2nd class tech/bg.jpg};} */
+
+.bg{
+     background-image: url(/bg.jpg);
+}
+
